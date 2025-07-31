@@ -1,5 +1,5 @@
 import lxml
-import cchardet
+import charset_normalizer
 import sgd.utils as ut
 from bs4 import BeautifulSoup
 from sgd.cache import Json
